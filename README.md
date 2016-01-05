@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ssnau/xspawn.svg?branch=master)](https://travis-ci.org/ssnau/xspawn)
+
 xspawn
 -----
 
