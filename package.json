@@ -1,0 +1,14 @@
+{
+  "name": "xspawn",
+  "version": "1.0.0",
+  "description": "a promise style spawn ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
