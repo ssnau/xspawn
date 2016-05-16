@@ -10,5 +10,17 @@
   "license": "MIT",
   "devDependencies": {
     "mocha": "^2.3.4"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssnau/xspawn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ssnau/xspawn/issues"
+  },
+  "homepage": "https://github.com/ssnau/xspawn#readme"
 }
